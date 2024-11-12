@@ -1,8 +1,24 @@
-# React + Vite
+# Betflix - [Онлайн кинотеатр](https://betflix-skk.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## [Youtube видео урок](https://youtu.be/inReuj1yPjU)
 
-Currently, two official plugins are available:
+## Запуск проекта
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Получить ключ на сайте https://kinopoiskapiunofficial.tech/ и добавить в `.env` файл.
+2. npm install
+3. npm run dev
+
+### Технологии
+
+1. Javascript
+2. React
+3. Redux Toolkit + query
+4. MUI
+
+### Деплой
+
+https://betflix-skk.netlify.app
+
+### Автор
+
+[Константин Стасенко](https://github.com/webdevkonstantin)
